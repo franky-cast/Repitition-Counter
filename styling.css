@@ -19,8 +19,7 @@ hr {
 
 /* reusable */
 .container {
-    margin: 0 auto;
-    margin-top: 3em;
+    margin: 6em auto;
     width: 60%;
     max-width: 350px;
     text-align: center;
